@@ -52,5 +52,5 @@ You can find the channel IDs by right-clicking on a channel in Slack, then selec
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-repo/slack-forwarder.git
+git clone https://github.com/Milad-Mohamadi/slackForwarder.git
 cd slack-forwarder
